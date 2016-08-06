@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28604" started-at="2016-02-22T07:32:23Z" finished-at="2016-02-22T07:32:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28604" started-at="2016-02-22T07:32:23Z" finished-at="2016-02-22T07:32:52Z">
+      <class name="Pack1.GmailMultipleData">
+        <test-method status="PASS" signature="exception_IFCondition()[pri:0, instance:Pack1.GmailMultipleData@52d455b8]" name="exception_IFCondition" duration-ms="28565" started-at="2016-02-22T13:02:23Z" finished-at="2016-02-22T13:02:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exception_IFCondition -->
+      </class> <!-- Pack1.GmailMultipleData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
